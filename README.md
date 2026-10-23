@@ -1,8 +1,8 @@
 # CarRadar — Database-First Car Services Marketplace
 
-CarRadar is a personal database design project for a car-services marketplace in Kenya, initially focused on detailing and towing. Its purpose is to demonstrate relational modelling, normalization decisions, referential integrity, SQL constraints, indexing, and database triggers using MySQL and MySQL Workbench.
+CarRadar is a personal database design project for a car-services marketplace in Kenya, initially focused on detailing. Its purpose is to demonstrate relational modelling, normalization decisions, referential integrity, SQL constraints, indexing and database triggers using MySQL and MySQL Workbench.
 
-The database models customers, providers, service discovery, vehicles, bookings, and reviews. It supports mobile services and fixed workshops. Payments are outside the current scope. This repository focuses entirely on the database and its documentation.
+The database models customers, providers, service discovery, vehicles, bookings and reviews. It supports mobile services and fixed workshops. Payments are outside the current scope. This repository focuses entirely on the database and its documentation.
 
 ## Database at a glance
 
